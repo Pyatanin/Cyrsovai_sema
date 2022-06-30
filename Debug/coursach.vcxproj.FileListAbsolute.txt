@@ -1,0 +1,2 @@
+C:\Users\HUAWEI\source\repos\coursach\Debug\coursach.exe
+C:\Users\HUAWEI\source\repos\coursach\Debug\coursach.pdb
